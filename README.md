@@ -1,5 +1,16 @@
 # <img src="icon.png" width="45" align="top"> Click: Mechanical Key Sound
 
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/STATUS-WAITING_FOR_REVIEW-yellow?style=for-the-badge&logo=apple" alt="Status">
+  <img src="https://img.shields.io/badge/UNLOCKS_IN-~24_HOURS-blueviolet?style=for-the-badge&logo=clock" alt="Timer">
+  <br><br>
+  <code>[██████████▒▒▒▒] Processing App Store Approval...</code>
+  <br>
+  <p><b>⚠️ The TestFlight link below is currently LOCKED. It will activate automatically soon.</b></p>
+  <br>
+</div>
+
 ![Click App Banner](banner.png)
 
 **Bring the satisfying "click-clack" of a vintage typewriter or a high-end mechanical keyboard to your silent Mac!**
