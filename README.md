@@ -2,6 +2,8 @@
 
 ![Click App Banner](banner.png)
 
+[![Beta Status](https://img.shields.io/badge/STATUS-PUBLIC_BETA_LIVE-success?style=for-the-badge&logo=apple)](https://testflight.apple.com/join/x4HuHaJb)
+
 **Bring the satisfying "click-clack" of a vintage typewriter or a high-end mechanical keyboard to your silent Mac!**
 
 Do you miss the tactile and rhythmic sound of a real keyboard? **Click** restores the joy of writing by adding realistic, high-quality audio feedback to every keystroke. Perfect for writers, coders, and ASMR enthusiasts.
